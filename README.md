@@ -27,3 +27,6 @@ Put the folder in your resources and start in resources.cfg
     end)
 ```
 
+# Credit
+
+https://github.com/pushkart2/memorygame
