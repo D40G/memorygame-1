@@ -1,6 +1,10 @@
-# memorygame
+# Memory Game
 Memory game like NoPixel for any framework
 Inspired by - https://codepen.io/torbenxxx/pen/MWJBzWP
+
+# Meth Depedency
+
+https://github.com/Project-Sloth/ps-drugprocessing
 
 # Usage
 
@@ -22,3 +26,4 @@ Put the folder in your resources and start in resources.cfg
         print("failure")
     end)
 ```
+
